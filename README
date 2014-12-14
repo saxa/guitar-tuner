@@ -1,0 +1,13 @@
+Guitar tuner
+------------
+
+This is a simple guitar tuner made by somebody from gnome.org who wrote the 
+gtk+ tutorial examples.
+
+It is slightly modified by me but it does not work at all right now.
+The intention is to learn gtk programming and maybe really one day finish it
+by having a functional  guitar tuner, or better a source of all the 12 tones
+in a chromatic scale.
+
+Sasa Ostrouska
+14-12-2014
